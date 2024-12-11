@@ -1,1 +1,2 @@
-# ecnolog-a-e-innovaci-n-financiera
+# Tecnología-e-innovación-financiera
+El metaverso redefine las finanzas globales, combinando tecnología y economía en un espacio digital único. Las tierras virtuales y los NFTs emergen como activos clave, mientras las criptomonedas se consolidan como el motor de una economía interna en constante expansión. Plataformas de pago y servicios digitales buscan adaptarse a este nuevo entorno, enfrentando desafíos técnicos y regulatorios en un ecosistema en evolución.
